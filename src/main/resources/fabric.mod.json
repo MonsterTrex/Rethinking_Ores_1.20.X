@@ -8,8 +8,8 @@
 		"MonsterTrex"
 	],
 	"contact": {
-		"homepage": "*",
-		"sources": "*"
+		"homepage": "https://github.com/MonsterTrex",
+		"sources": "https://github.com/MonsterTrex/Rethinking_Ores_1.20.X"
 	},
 	"license": "MIT",
 	"icon": "assets/rethinkingores/icon.png",
